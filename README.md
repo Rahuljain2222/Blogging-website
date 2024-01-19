@@ -5,3 +5,6 @@ It is a Nodejs application. You can create different users here and then each us
 For setting up in local machine:
 Run : npm install dependencies
 As dotenv is used you can set up the PORT and MONGO_URL according to your own will.
+
+To start the application, you can 
+Run : npm start 
